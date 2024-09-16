@@ -1,6 +1,6 @@
 # Nexia
 
-👋 | Nexia is a combat test snapshot 8c (CTS) server, providing useful resources and information about CTS.
+👋 | Nexia is a minecraft server, which aims to improve minecraft combat.
 
 ## Info
 
@@ -12,4 +12,4 @@
 
 #### Discord server...
 
-❓️ | **Invite**: https://discord.gg/uUC3zCZ2S7
+❓️ | **Invite**: https://discord.gg/ZmxawW9nBv
